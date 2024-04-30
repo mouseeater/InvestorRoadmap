@@ -48,6 +48,10 @@
     
     ![3](https://github.com/DevTae/InvestorRoadmap/assets/55177359/6c307d33-8838-4bc5-a3af-ebd00d7f97b8)
 
+프로젝트 참가 인원
+김민준(서울과학기술대학교 학부 3학년)
+김태현(한양대학교 학부 4학년)
+
 - References
   - https://dart.fss.or.kr/
   - http://data.krx.co.kr/
